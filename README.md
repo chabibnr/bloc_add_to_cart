@@ -2,6 +2,10 @@
 
 Add to cart
 
+## Screenshots
+![Screenshot](https://raw.githubusercontent.com/chabibnr/bloc_add_to_cart/master/screenshots/1.png "Screenshot 1")
+![Screenshot](https://raw.githubusercontent.com/chabibnr/bloc_add_to_cart/master/screenshots/2.png "Screenshot 2")
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
